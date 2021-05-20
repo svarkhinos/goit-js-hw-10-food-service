@@ -1,3 +1,4 @@
+import './sass/main.scss';
 import dishCards from '../src/templates/dish-cards.hbs';
 import menu from './menu.json';
 
